@@ -1,0 +1,25 @@
+/*
+* @Author: 星14
+* @Date:   2020-06-03 10:51:51
+* @Last Modified by:   星14
+* @Last Modified time: 2020-06-03 10:56:22
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	vertical-align: bottom;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.clear:after{
+	content: "";
+	height: 0;
+	display: block;
+	clear: both;
+}
